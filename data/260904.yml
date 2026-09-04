@@ -1,11 +1,13 @@
 about:
-  description: Run a command multiple times and glance at the outputs via a TUI
+  description:
+  |
+    Run a command multiple times and glance at the outputs via a TUI
   license: MIT
   homepage: https://tools.dhruvs.space/mult
   head: 12c4b1d
   archived: false
   latestVersion: v0.3.0
-  collectedAt: 2026-09-04T04:32:02Z
+  collectedAt: 2026-09-04T19:34:35Z
 timeline:
   created: 2024-04-29
   lastCommit: 2026-08-25
@@ -16,14 +18,22 @@ popularity:
   fork: 2
   release: 6
   contributor: 2
-  pullRequest: 9
+  pullRequest: 59
   issue: 4
 language:
   Go: 25154
-totalLine: 25154
+totalBytes: 25154
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 3
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 4
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 3
     openPR: 0
@@ -54,3 +64,21 @@ recent:
     closedIssue: 1
     openIssue: 0
     commit: 32
+  last720d:
+    since: 2024-09-14
+    release: 2
+    mergedPR: 48
+    openPR: 0
+    closedIssue: 2
+    openIssue: 0
+    commit: 75
+total:
+  release: 6
+  mergedPR: 50
+  openPR: 0
+  closedIssue: 4
+  openIssue: 0
+  commit: 93
+---
+---
+
