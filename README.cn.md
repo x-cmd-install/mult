@@ -4,13 +4,24 @@
 
 Run a command multiple times and glance at the outputs
 
-![mult](https://repo.x-cmd.io/mult.svg)
+![mult](https://repo.x-cmd.io/mult.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install mult
 ```
+
+## 代码规模
+
+合计: **976** 行代码（覆盖前 5 种语言、共 **21** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 891 | 3 | 166 | 16 |
+| Toml | 85 | 0 | 18 | 1 |
+| Markdown | 0 | 212 | 95 | 3 |
+| Text | 0 | 26 | 7 | 1 |
 
 ## 源代码
 
@@ -23,7 +34,6 @@ x install mult
 - **最新版本**: `v0.3.1` (2026-09-05)
 - **最近提交**: 2026-09-05
 - **Release 含资产**: 6 个
-- **发布时间**: 2026-09-05T15:21:19Z
 
 ## 流行度
 
@@ -38,19 +48,26 @@ x install mult
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 1 | 8 | 0 | 1 | 0 | 10 |
+| last60d | 2026-07-12 | 1 | 8 | 0 | 1 | 0 | 10 |
 | 90d | 2026-06-12 | 1 | 8 | 0 | 1 | 0 | 10 |
+| last180d | 2026-03-14 | 1 | 17 | 0 | 1 | 0 | 21 |
 | 360d | 2025-09-15 | 1 | 33 | 0 | 1 | 0 | 38 |
+| last720d | 2024-09-20 | 3 | 53 | 0 | 2 | 0 | 81 |
 
-## 代码规模
+## Release 资产
 
-合计: **976** 行代码（覆盖前 5 种语言、共 **21** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [mult_0.3.1_checksums.txt](https://github.com/dhth/mult/releases/download/v0.3.1/mult_0.3.1_checksums.txt) | 386 B | `other` |
+| [mult_0.3.1_checksums.txt.sigstore.json](https://github.com/dhth/mult/releases/download/v0.3.1/mult_0.3.1_checksums.txt.sigstore.json) | 9.8 KiB | `other` |
+| [mult_0.3.1_darwin_amd64.tar.gz](https://github.com/dhth/mult/releases/download/v0.3.1/mult_0.3.1_darwin_amd64.tar.gz) | 1.9 MiB | `native/darwin/x64` |
+| [mult_0.3.1_darwin_arm64.tar.gz](https://github.com/dhth/mult/releases/download/v0.3.1/mult_0.3.1_darwin_arm64.tar.gz) | 1.8 MiB | `native/darwin/arm64` |
+| [mult_0.3.1_linux_amd64.tar.gz](https://github.com/dhth/mult/releases/download/v0.3.1/mult_0.3.1_linux_amd64.tar.gz) | 1.9 MiB | `native/linux/x64` |
+| [mult_0.3.1_linux_arm64.tar.gz](https://github.com/dhth/mult/releases/download/v0.3.1/mult_0.3.1_linux_arm64.tar.gz) | 1.7 MiB | `native/linux/arm64` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 891 | 3 | 166 | 16 |
-| Toml | 85 | 0 | 18 | 1 |
-| Markdown | 0 | 212 | 95 | 3 |
-| Text | 0 | 26 | 7 | 1 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/mult) 上共有 **3** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
 
 ## 改进这些数据
 
@@ -61,4 +78,4 @@ mult 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:45:32Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:33:22Z._
