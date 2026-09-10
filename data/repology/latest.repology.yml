@@ -1,0 +1,36 @@
+- repo: aur
+  srcname: mult
+  binname: mult
+  visiblename: mult
+  version: 0.1.3
+  origversion: 0.1.3-1
+  status: outdated
+  summary: Run a command multiple times and glance at the outputs via a TUI
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - MIT
+- repo: aur
+  srcname: mult-bin
+  binname: mult-bin
+  visiblename: mult-bin
+  version: 0.3.1
+  origversion: 0.3.1-1
+  status: newest
+  summary: Run a command multiple times and glance at the outputs via a TUI
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: sysutils/mult
+  binname: mult
+  visiblename: sysutils/mult
+  version: 0.3.1
+  origversion: null
+  status: newest
+  summary: Run a command multiple times and glance at the outputs
+  maintainers:
+    - olgeni@freebsd.org
+  categories:
+    - sysutils
