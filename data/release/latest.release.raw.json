@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 386,
       "digest": "sha256:10e27ffbfbc2369eff1b035ad3a03ca5f6a08d76d88b61edc90af9780cb2b628",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-05T15:20:09Z",
       "updated_at": "2026-09-05T15:20:09Z",
       "browser_download_url": "https://github.com/dhth/mult/releases/download/v0.3.1/mult_0.3.1_checksums.txt"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1986412,
       "digest": "sha256:5e57dd337c44765c9d10afa4705228c69e2c66af438d88a940f366185fcbcf64",
-      "download_count": 47,
+      "download_count": 48,
       "created_at": "2026-09-05T15:20:09Z",
       "updated_at": "2026-09-05T15:20:09Z",
       "browser_download_url": "https://github.com/dhth/mult/releases/download/v0.3.1/mult_0.3.1_linux_amd64.tar.gz"
