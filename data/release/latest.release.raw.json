@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2001221,
       "digest": "sha256:4e80b14e783c48ebc9bf833edf5462c3f7f1d68bf90cdfa64be9c132e91af163",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-09-05T15:20:09Z",
       "updated_at": "2026-09-05T15:20:09Z",
       "browser_download_url": "https://github.com/dhth/mult/releases/download/v0.3.1/mult_0.3.1_darwin_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1986412,
       "digest": "sha256:5e57dd337c44765c9d10afa4705228c69e2c66af438d88a940f366185fcbcf64",
-      "download_count": 50,
+      "download_count": 52,
       "created_at": "2026-09-05T15:20:09Z",
       "updated_at": "2026-09-05T15:20:09Z",
       "browser_download_url": "https://github.com/dhth/mult/releases/download/v0.3.1/mult_0.3.1_linux_amd64.tar.gz"
