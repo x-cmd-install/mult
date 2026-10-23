@@ -47,12 +47,12 @@ Total: **976** lines of code across **21** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 1 | 7 | 0 | 0 | 0 | 9 |
-| 90d | 2026-07-24 | 1 | 9 | 0 | 1 | 0 | 12 |
-| last180d | 2026-04-25 | 1 | 14 | 0 | 1 | 0 | 19 |
-| 360d | 2025-10-27 | 1 | 31 | 0 | 1 | 0 | 36 |
-| last720d | 2024-11-01 | 3 | 54 | 0 | 2 | 0 | 80 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 1 | 7 | 0 | 0 | 0 | 9 |
+| 90d | 2026-07-25 | 1 | 9 | 0 | 1 | 0 | 12 |
+| last180d | 2026-04-26 | 1 | 14 | 0 | 1 | 0 | 19 |
+| 360d | 2025-10-28 | 1 | 31 | 0 | 1 | 0 | 36 |
+| last720d | 2024-11-02 | 3 | 54 | 0 | 2 | 0 | 80 |
 
 ## Release assets
 
@@ -65,6 +65,10 @@ Total: **976** lines of code across **21** files in the top 5 languages.
 | [mult_0.3.1_linux_amd64.tar.gz](https://github.com/dhth/mult/releases/download/v0.3.1/mult_0.3.1_linux_amd64.tar.gz) | 1.9 MiB | `native/linux/x64` |
 | [mult_0.3.1_linux_arm64.tar.gz](https://github.com/dhth/mult/releases/download/v0.3.1/mult_0.3.1_linux_arm64.tar.gz) | 1.7 MiB | `native/linux/arm64` |
 
+## Distribution status
+
+Reported by **3** distros on [repology.org](https://repology.org/project/mult). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+
 ## Improve this data
 
 Install metadata for mult lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mult` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -74,4 +78,4 @@ Install metadata for mult lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:23:40Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:27:56Z._
