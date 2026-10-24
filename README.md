@@ -32,7 +32,7 @@ Total: **976** lines of code across **21** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.3.1` (2026-09-05)
-- **Last commit**: 2026-09-20
+- **Last commit**: 2026-10-24
 - **Assets in release**: 6
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **976** lines of code across **21** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 7 · **Merged PRs**: 56 · **Open PRs**: 0 · **Closed issues**: 4 · **Open issues**: 0 · **Commits**: 101
+- **Releases**: 7 · **Merged PRs**: 57 · **Open PRs**: 0 · **Closed issues**: 4 · **Open issues**: 0 · **Commits**: 102
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-24 | 1 | 7 | 0 | 0 | 0 | 9 |
-| 90d | 2026-07-25 | 1 | 9 | 0 | 1 | 0 | 12 |
-| last180d | 2026-04-26 | 1 | 14 | 0 | 1 | 0 | 19 |
-| 360d | 2025-10-28 | 1 | 31 | 0 | 1 | 0 | 36 |
-| last720d | 2024-11-02 | 3 | 54 | 0 | 2 | 0 | 80 |
+| 30d | 2026-09-24 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-08-25 | 1 | 7 | 0 | 0 | 0 | 10 |
+| 90d | 2026-07-26 | 1 | 10 | 0 | 1 | 0 | 13 |
+| last180d | 2026-04-27 | 1 | 15 | 0 | 1 | 0 | 20 |
+| 360d | 2025-10-29 | 1 | 32 | 0 | 1 | 0 | 37 |
+| last720d | 2024-11-03 | 3 | 55 | 0 | 2 | 0 | 81 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for mult lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:27:56Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:15:11Z._
