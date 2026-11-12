@@ -27,7 +27,7 @@
   binname: mult
   visiblename: sysutils/mult
   version: 0.3.1
-  origversion: 0.3.1_2
+  origversion: 0.3.1_3
   status: newest
   summary: Run a command multiple times and glance at the outputs
   maintainers:
