@@ -47,12 +47,12 @@ Total: **977** lines of code across **21** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 3 | 0 | 0 | 0 | 3 |
-| last60d | 2026-09-22 | 0 | 3 | 0 | 0 | 0 | 3 |
-| 90d | 2026-08-23 | 1 | 10 | 0 | 0 | 0 | 12 |
-| last180d | 2026-05-25 | 1 | 15 | 0 | 1 | 0 | 20 |
-| 360d | 2025-11-26 | 1 | 32 | 0 | 1 | 0 | 37 |
-| last720d | 2024-12-01 | 3 | 55 | 0 | 2 | 0 | 82 |
+| 30d | 2026-10-23 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-09-23 | 0 | 3 | 0 | 0 | 0 | 3 |
+| 90d | 2026-08-24 | 1 | 10 | 0 | 0 | 0 | 11 |
+| last180d | 2026-05-26 | 1 | 15 | 0 | 1 | 0 | 19 |
+| 360d | 2025-11-27 | 1 | 32 | 0 | 1 | 0 | 34 |
+| last720d | 2024-12-02 | 3 | 55 | 0 | 2 | 0 | 82 |
 
 ## Release assets
 
@@ -78,4 +78,4 @@ Install metadata for mult lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T09:08:23Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:05:52Z._
